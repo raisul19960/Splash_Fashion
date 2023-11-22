@@ -1,0 +1,1143 @@
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\Splash_fashion_Bd.dll.config
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\Splash_fashion_Bd.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\Splash_fashion_Bd.pdb
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csc.exe
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csc.exe.config
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csc.rsp
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csi.exe
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csi.exe.config
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csi.rsp
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Buffers.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Memory.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\vbc.exe
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\vbc.exe.config
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\vbc.rsp
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\VBCSCompiler.exe
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.SqlServer.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\Owin.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Helpers.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Mvc.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Razor.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Razor.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.xml
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.SqlServer.xml
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.xml
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.xml
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Razor.xml
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.xml
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Razor.xml
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Helpers.xml
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Mvc.xml
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.AssemblyReference.cache
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.CoreCompileInputs.cache
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.CopyComplete
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.dll
+C:\Users\Raisul Islam\Downloads\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.pdb
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Splash_fashion_Bd.dll.config
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Splash_fashion_Bd.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Splash_fashion_Bd.pdb
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csc.exe
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csc.exe.config
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csc.rsp
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csi.exe
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csi.exe.config
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csi.rsp
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Buffers.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Memory.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\vbc.exe
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\vbc.exe.config
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\vbc.rsp
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\VBCSCompiler.exe
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.SqlServer.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Owin.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Helpers.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Mvc.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Razor.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Razor.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.SqlServer.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Razor.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Razor.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Helpers.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Mvc.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.AssemblyReference.cache
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.CoreCompileInputs.cache
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.CopyComplete
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.pdb
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Buffers.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Memory.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Numerics.Vectors.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Text.Encodings.Web.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.Mvc.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.Web.Common.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Buffers.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Memory.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Numerics.Vectors.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Text.Encodings.Web.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Splash_fashion_Bd.dll.config
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Splash_fashion_Bd.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Splash_fashion_Bd.pdb
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csc.exe
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csc.exe.config
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csc.rsp
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csi.exe
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csi.exe.config
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csi.rsp
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Buffers.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Collections.Immutable.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Memory.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Numerics.Vectors.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Reflection.Metadata.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\vbc.exe
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\vbc.exe.config
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\vbc.rsp
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\VBCSCompiler.exe
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\VBCSCompiler.exe.config
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.SqlServer.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Antiforgery.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Core.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Extensions.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Features.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.JsonPatch.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Core.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.WebUtilities.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.DotNet.PlatformAbstractions.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyModel.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.Abstractions.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.ObjectPool.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Options.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Primitives.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.WebEncoders.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Net.Http.Headers.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Web.Infrastructure.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Win32.Registry.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.Bson.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Owin.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Buffers.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.ComponentModel.Annotations.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Diagnostics.DiagnosticSource.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Memory.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Numerics.Vectors.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.AccessControl.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.Cryptography.Xml.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.Permissions.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.Principal.Windows.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Text.Encodings.Web.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Threading.Tasks.Extensions.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Helpers.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Mvc.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Razor.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Deployment.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Razor.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.Mvc.Core.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.Mvc.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.Web.Common.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.SqlServer.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Antiforgery.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Core.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Extensions.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Features.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.JsonPatch.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Core.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.WebUtilities.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.Abstractions.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Logging.Abstractions.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.ObjectPool.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Options.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Primitives.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.WebEncoders.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Net.Http.Headers.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.Bson.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Buffers.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Diagnostics.DiagnosticSource.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Memory.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Numerics.Vectors.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Text.Encodings.Web.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Threading.Tasks.Extensions.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Razor.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Deployment.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Razor.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Helpers.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Mvc.xml
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.AssemblyReference.cache
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.CoreCompileInputs.cache
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.CopyComplete
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.dll
+G:\Mostakim\M6\Project - Mostakim\Project\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.pdb
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Splash_fashion_Bd.dll.config
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Splash_fashion_Bd.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Splash_fashion_Bd.pdb
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csc.exe
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csc.exe.config
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csc.rsp
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csi.exe
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csi.exe.config
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csi.rsp
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Buffers.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Memory.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\vbc.exe
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\vbc.exe.config
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\vbc.rsp
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\VBCSCompiler.exe
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.SqlServer.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Options.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Win32.Registry.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.Bson.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Owin.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Buffers.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.ComponentModel.Annotations.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Memory.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Numerics.Vectors.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.AccessControl.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.Cryptography.Xml.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.Permissions.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.Principal.Windows.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Text.Encodings.Web.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Helpers.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Mvc.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Razor.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Razor.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.Mvc.Core.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.Mvc.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.Web.Common.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.SqlServer.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Options.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.Bson.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Buffers.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Memory.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Numerics.Vectors.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Text.Encodings.Web.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Razor.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Razor.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Helpers.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Mvc.xml
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.AssemblyReference.cache
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.CoreCompileInputs.cache
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.CopyComplete
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.dll
+C:\Users\LAB104-11\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.pdb
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Splash_fashion_Bd.dll.config
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Splash_fashion_Bd.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Splash_fashion_Bd.pdb
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csc.exe
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csc.exe.config
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csc.rsp
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csi.exe
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csi.exe.config
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csi.rsp
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Buffers.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Memory.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\vbc.exe
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\vbc.exe.config
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\vbc.rsp
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\VBCSCompiler.exe
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.SqlServer.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Options.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Win32.Registry.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.Bson.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Owin.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Buffers.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.ComponentModel.Annotations.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Memory.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Numerics.Vectors.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.AccessControl.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.Cryptography.Xml.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.Permissions.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.Principal.Windows.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Text.Encodings.Web.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Helpers.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Mvc.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Razor.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Razor.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.Mvc.Core.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.Mvc.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.Web.Common.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.SqlServer.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Options.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.Bson.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Buffers.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Memory.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Numerics.Vectors.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Text.Encodings.Web.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Razor.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Razor.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Helpers.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Mvc.xml
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.AssemblyReference.cache
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.CoreCompileInputs.cache
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.CopyComplete
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.dll
+C:\Users\Raisul Islam\Desktop\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.pdb
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.AssemblyReference.cache
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.CoreCompileInputs.cache
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.pdb
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Splash_fashion_Bd.dll.config
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Splash_fashion_Bd.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Splash_fashion_Bd.pdb
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csc.exe
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csc.exe.config
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csc.rsp
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csi.exe
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csi.exe.config
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csi.rsp
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Buffers.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Memory.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\vbc.exe
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\vbc.exe.config
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\vbc.rsp
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\VBCSCompiler.exe
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.SqlServer.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Options.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Win32.Registry.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.Bson.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Owin.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Buffers.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.ComponentModel.Annotations.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Memory.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Numerics.Vectors.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.AccessControl.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.Cryptography.Xml.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.Permissions.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.Principal.Windows.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Text.Encodings.Web.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Helpers.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Mvc.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Razor.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Razor.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.Mvc.Core.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.Mvc.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.Web.Common.dll
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.SqlServer.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Options.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.Bson.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Buffers.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Memory.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Numerics.Vectors.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Text.Encodings.Web.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Razor.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Razor.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Helpers.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Mvc.xml
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.CopyComplete
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.Migrations.Create.resources
+C:\Users\LAB104-11\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.GenerateResource.cache
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Splash_fashion_Bd.dll.config
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Splash_fashion_Bd.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Splash_fashion_Bd.pdb
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csc.exe
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csc.exe.config
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csc.rsp
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csi.exe
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csi.exe.config
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\csi.rsp
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Buffers.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Memory.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\vbc.exe
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\vbc.exe.config
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\vbc.rsp
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\VBCSCompiler.exe
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.SqlServer.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Options.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Win32.Registry.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.Bson.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Owin.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Buffers.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.ComponentModel.Annotations.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Memory.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Numerics.Vectors.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.AccessControl.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.Cryptography.Xml.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.Permissions.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.Principal.Windows.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Text.Encodings.Web.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Helpers.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Mvc.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Razor.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Razor.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.Mvc.Core.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.Mvc.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.Web.Common.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\EntityFramework.SqlServer.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Options.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.Bson.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Buffers.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Memory.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Numerics.Vectors.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Text.Encodings.Web.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Razor.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Webpages.Razor.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Helpers.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Web.Mvc.xml
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.AssemblyReference.cache
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.Migrations.Create.resources
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.GenerateResource.cache
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.CoreCompileInputs.cache
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.CopyComplete
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.dll
+C:\Users\Raisul Islam\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.pdb
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Options.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Win32.Registry.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.Bson.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.ComponentModel.Annotations.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.AccessControl.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.Cryptography.Xml.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.Permissions.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Security.Principal.Windows.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\X.PagedList.Mvc.Core.dll
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Options.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\Newtonsoft.Json.Bson.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.Migrations.Create.resources
+C:\Users\LAB104-12\Desktop\Raisul\Splash_fashion_Bd\Splash_fashion_Bd\obj\Debug\Splash_fashion_Bd.csproj.GenerateResource.cache

@@ -1,0 +1,79 @@
+﻿@model Splash_fashion_Bd.ViewModels.CustomersViewModel
+
+<input type="hidden" id="server-task" value="@ViewBag.Act" />
+
+<div class="form-group row mb-1">
+    @Html.LabelFor(x => x.CustomerName, new { @class = "col-form-label col-form-label-sm col-2" })
+    <div class="col-6">
+        @Html.TextBoxFor(x => x.CustomerName, new { @class = "form-control form-control-sm" })
+        @Html.ValidationMessageFor(x => x.CustomerName, "", new { @class = "text-danger", style = "font-size:x-small" })
+    </div>
+</div>
+<div class="form-group row mb-1">
+    @Html.LabelFor(x => x.Address, new { @class = "col-form-label col-form-label-sm col-2" })
+    <div class="col-6">
+        @Html.TextBoxFor(x => x.Address, new { @class = "form-select form-select-sm" })
+        @Html.ValidationMessageFor(x => x.Address, "", new { @class = "text-danger", style = "font-size:x-small" })
+    </div>
+</div>
+<div class="form-group row mb-1">
+    @Html.LabelFor(x => x.Email, new { @class = "col-form-label col-form-label-sm col-2" })
+    <div class="col-6">
+        @Html.TextBoxFor(x => x.Email, new { @class = "form-control form-control-sm" })
+        @Html.ValidationMessageFor(x => x.Email, "", new { @class = "text-danger", style = "font-size:x-small" })
+    </div>
+</div>
+
+<div class="form-group row mb-1">
+    @Html.LabelFor(x => x.Picture, new { @class = "col-form-label col-form-label-sm col-2" })
+    <div class="col-6">
+        @Html.TextBoxFor(x => x.Picture, new { @class = "form-control form-control-sm", type = "file" })
+        @Html.ValidationMessageFor(x => x.Picture, "", new { @class = "text-danger", style = "font-size:x-small" })
+    </div>
+</div>
+<div class="form-group row mb-1">
+    <div class="form-check offset-2">
+        @Html.CheckBoxFor(x => x.DoYouBuyOurProducts)
+        <label class="form-check-label" for="flexCheckDefault">
+            Do You Buy Our Products ?
+        </label>
+    </div>
+</div>
+<div class="col-12">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Order Date</th>
+                <th>Delivery Date</th>
+                <th>Status</th>
+                <th>
+                    <button type="submit" class="btn btn-success btn-sm add" name="act" value="add" formnovalidate><i class="bi bi-plus"></i></button>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (var i = 0; i < Model.Orders.Count; i++)
+            {
+                <tr>
+                    <td>
+                        @Html.TextBoxFor(x => Model.Orders[i].OrderDate, new { @class = "form-control od" })
+                        @Html.ValidationMessageFor(x => Model.Orders[i].OrderDate, "", new { @class = "text-danger" })
+
+                    </td>
+                    <td>
+                        @Html.TextBoxFor(x => Model.Orders[i].DeliveryDate, new { @class = "form-control dd" })
+                        @Html.ValidationMessageFor(x => Model.Orders[i].DeliveryDate, "", new { @class = "text-danger" })
+                    </td>
+                    <td>
+                        @Html.EnumDropDownListFor(x => Model.Orders[i].Status, new { @class = "form-select" })
+                        @Html.ValidationMessageFor(x => Model.Orders[i].Status, "", new { @class = "text-danger" })
+                    </td>
+
+                    <th>
+                        <button type="submit" class="btn btn-danger btn-sm" name="act" value="remove_@i" formnovalidate><i class="bi bi-trash"></i></button>
+                    </th>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,150 @@
+﻿@model IEnumerable<Splash_fashion_Bd.Models.Customer>
+@using X.PagedList
+@using X.PagedList.Mvc
+@using X.PagedList.Mvc.Common
+@{
+    ViewBag.Title = "Index";
+}
+<div class="row">
+    <div class="col-12">
+        <h3 class="text-center">Customer List</h3>
+        <div class="d-flex justify-content-end mb-1">
+            <a href="@Url.Action("Create", "Customers")" class="btn btn-primary btn-sm">Create New</a>
+        </div>
+        <table class="table table-bordered table-striped">
+            <thead class="table-light">
+                <tr>
+                    <th></th>
+                    <th>Photos</th>
+                    <th>Customer Name</th>
+                    <th>Address</th>
+                    <th>Email</th>
+                    <th>Do you buy our products?</th>
+                    <th>...</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var c in Model)
+                {
+                    <tr style="vertical-align:middle" id="tr_@c.Id">
+                        <td class="text-center">
+                            <button type="button" id="show_@c.Id" class="btn btn-link btn-sm show" data-aid="@c.Id"><i class="bi bi-chevron-right">+</i></button>
+                            <button type="button" id="hide_@c.Id" class="btn btn-link btn-sm hide" data-aid="@c.Id" style="display:none"><i class="bi bi-chevron-down">^</i></button>
+                        </td>
+                        <td><img src="~/Pictures/@c.Picture" class="img-thumbnail rounded" style="width:60px" /></td>
+                        <td>@c.CustomerName</td>
+                        <td>@c.Address</td>
+                        <td>@c.Email</td>
+                        <td>@(c.DoYouBuyOurProducts ? "Yes" : "No")</td>
+                        <td>
+                            <a title="Edit this item" href="@Url.Action("Edit", "Customers", new {id=c.Id})" class="btn btn-success btn-sm"><i class="bi bi-pencil">Edit</i></a>
+                            <button type="button" title="Delete this item" data-pk="@c.Id" href="@Url.Action("Delete", "Customers", new {id=c.Id})" class="btn btn-danger btn-sm del"><i class="bi bi-trash">Delete</i></button>
+                        </td>
+                    </tr>
+                    <tr style="display:none" id="o_@c.Id">
+                        <td></td>
+                        <td colspan="5">
+                            <h4>Orders</h4>
+                            <table class="table table-bordered">
+                                <thead class="table-light">
+                                    <tr>
+                                        <th>OrderDate</th>
+                                        <th>DeliveryDate</th>
+                                        <th>Status</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var o in c.Orders)
+                                    {
+                                        <tr>
+                                            <td>@o.OrderDate.ToString("yyyy-MM-dd")</td>
+                                            <td>@o.DeliveryDate.ToString("yyyy-MM-dd")</td>
+                                            <td>@o.Status</td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div class="d-flex justify-content-end">
+            @Html.PagedListPager((IPagedList)Model, pg => Url.Action("Index", new { pg = pg }), new PagedListRenderOptions
+            {
+                LiElementClasses = new string[] { "page-item" },
+                PageClasses = new string[] { "page-link" }
+            })
+        </div>
+    </div>
+</div>
+<div class="modal" tabindex="-1" id="delmodal">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+            <div class="modal-header bg-warning">
+                <h5 class="modal-title">Modal title</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>Are you sure to delete?</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                <button type="button" class="btn btn-primary" id="btnyes">Yes</button>
+            </div>
+        </div>
+    </div>
+</div>
+@section styles
+{
+    <link href="~/Content/bootstrap-icons-1.10.5/font/bootstrap-icons.css" rel="stylesheet" />
+}
+@section scripts {
+    <script src="~/Scripts/jquery-3.7.0.js"></script>
+    <script src="~/Scripts/bootstrap.bundle.js"></script>
+    <script>
+        $(() => {
+            $(".show").click(function () {
+                var aid = $(this).data("aid");
+                $(`#o_${aid}`).show();
+                $(`#hide_${aid}`).show();
+                $(this).hide();
+            });
+            $(".hide").click(function () {
+                var aid = $(this).data("aid");
+                $(`#o_${aid}`).hide();
+                $(`#show_${aid}`).show();
+                $(this).hide();
+            })
+        });
+    </script>
+
+    <script>
+        var delModal;
+        var delId = -1;
+        $(() => {
+            delModal = new bootstrap.Modal(document.getElementById('delmodal'));
+            $(".del").click(function () {
+                delModal.show();
+                delId = $(this).data("pk");
+                console.log(delId);
+            });
+            $("#btnyes").click(() => {
+                $.ajax({
+                    type: "post",
+                    url: "/Customers/Delete/" + delId,
+                    dataType: "json",
+                    success: (r) => {
+                        if (r.success == true) {
+                            $("#tr_" + delId).remove();
+                        }
+                    }
+                });
+                delModal.hide();
+            });
+        })
+    </script>
+}
+
+
+
